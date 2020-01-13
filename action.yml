@@ -1,0 +1,7 @@
+name: Composer
+description: A GitHub Action to run composer on your build.
+author: Camber Creative
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
